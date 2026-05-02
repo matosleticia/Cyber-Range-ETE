@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Cyber Range — Simulador Virtual de ETE para Segurança Cibernética
 
 **Pesquisadora:** Leticia dos Santos Matos — PIBIT 2025 / UNIFEI (Itajubá-MG)  
