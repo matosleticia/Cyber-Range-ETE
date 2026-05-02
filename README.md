@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cyber Range — Simulador Virtual de ETE para Segurança Cibernética
 
 **Pesquisadora:** Leticia dos Santos Matos — PIBIT 2025 / UNIFEI (Itajubá-MG)  
@@ -166,6 +167,4 @@ A arquitetura permite validação segura de ataques cibernéticos e contramedida
 - Mathur & Tippenhauer (2016) — *SWaT: A Water Treatment Testbed*
 - Beresford (2011) — *Exploiting Siemens S7 PLCs*
 
----
 
-*Repositório de pesquisa — UNIFEI / PIBIT 2025-2026*
